@@ -1,0 +1,451 @@
+[
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVAES"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVAESCTR"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVAudioFifo"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVBPrint"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVBlowfish"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVBuffer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVBufferPool"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVBufferRef"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVCAMELLIA"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVCAST5"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVClass"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVComplexDouble"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVComplexFloat"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVComplexInt32"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVComponentDescriptor"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVContentLightMetadata"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVDES"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVDictionary"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVDictionaryEntry"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVDownmixInfo"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVDynamicHDRPlus"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVEncryptionInfo"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVEncryptionInitInfo"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVExpr"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVFifoBuffer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVFrame"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVFrameSideData"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVHDRPlusColorTransformParams"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVHDRPlusPercentile"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVHMAC"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVHWDeviceContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVHWDeviceInternal"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVHWFramesConstraints"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVHWFramesContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVHWFramesInternal"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVHashContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVLFG"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVMD5"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVMasteringDisplayMetadata"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVMotionVector"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVOption"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVOptionRange"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVOptionRanges"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVPixFmtDescriptor"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVRC4"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVRIPEMD"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVRational"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVRegionOfInterest"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVReplayGain"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVSHA"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVSHA512"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVSphericalMapping"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVStereo3D"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVSubsampleEncryptionInfo"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVTEA"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVTWOFISH"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVTXContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVThreadMessageQueue"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVTimecode"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVTreeNode"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVXTEA"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Alloc_Pointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Alloc_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Callback_Pointer_int_BytePointer_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Callback_Pointer_int_String_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Cmp_Const_Pointer_Const_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Cmp_Pointer_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Enu_Pointer_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Free_Pointer_ByteBuffer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Free_Pointer_BytePointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Free_Pointer_byte__"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Free_func_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Func_Pointer_Pointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Funcs1_Pointer_double"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Funcs2_Pointer_double_double"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Int_func_Pointer_Pointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.LogCallback"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.Pool_free_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.av_alias16"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.av_alias32"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.av_alias64"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.av_intfloat32"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.av_intfloat64"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.av_pixelutils_sad_fn"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.av_tx_fn"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.ff_pad_helper_AVBPrint"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.tm"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.unaligned_16"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.unaligned_32"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.unaligned_64"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.presets.avutil"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.global.avutil"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Pointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.lang.String",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Pointer$NativeDeallocator",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Loader",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.nio.Buffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.lang.Object",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.nio.charset.Charset"
+  },
+  {
+    "name" : "java.lang.NullPointerException"
+  },
+  {
+    "name" : "java.lang.RuntimeException"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.BytePointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.IntPointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.PointerPointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVClass$Query_ranges_PointerPointer_Pointer_BytePointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVClass$Get_category_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVClass$Child_class_next_AVClass"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVClass$Child_next_Pointer_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVClass$Item_name_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.LongPointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVHWDeviceContext$Free_AVHWDeviceContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVHWFramesContext$Free_AVHWFramesContext"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.ShortPointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.FloatPointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "sun.misc.Unsafe",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  }
+]

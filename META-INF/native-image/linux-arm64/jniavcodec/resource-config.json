@@ -1,0 +1,9 @@
+{
+  "resources": [
+    {"pattern": "META-INF/.*"},
+    {"pattern": "org/bytedeco/javacpp/properties/.*"},
+    {"pattern": ".*/libjniavcodec.so"},
+    {"pattern": ".*/libasound.so.2"},
+    {"pattern": ".*/libavcodec.so.58"}
+  ]
+}

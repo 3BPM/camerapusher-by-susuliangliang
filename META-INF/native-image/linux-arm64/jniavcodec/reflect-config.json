@@ -1,0 +1,371 @@
+[
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVBSFContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVBSFInternal"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVBSFList"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVBitStreamFilter"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVBitStreamFilterContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCPBProperties"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecDefault"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecDescriptor"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecHWConfig"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecInternal"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecParameters"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecParser"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecParserContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVHWAccel"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVPacket"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVPacketSideData"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVPanScan"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVPicture"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVProducerReferenceTime"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVProfile"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVSubtitle"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVSubtitleRect"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.Cb_PointerPointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.Cb_Pointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.DCTContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.FFTComplex"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.FFTContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.Func_AVCodecContext_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.Func_AVCodecContext_Pointer_int_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.MpegEncContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.RDFTContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.RcOverride"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.presets.avcodec"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.global.avcodec"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Pointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.lang.String",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Pointer$NativeDeallocator",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Loader",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.nio.Buffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.lang.Object",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.nio.charset.Charset"
+  },
+  {
+    "name" : "java.lang.NullPointerException"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVRational"
+  },
+  {
+    "name" : "java.lang.RuntimeException"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVClass"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVBitStreamFilter$Flush_AVBSFContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVBitStreamFilter$Close_AVBSFContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVBitStreamFilter$Filter_AVBSFContext_AVPacket"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVBitStreamFilter$Init_AVBSFContext"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.IntPointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.BytePointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec$Flush_AVCodecContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVFrame"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec$Receive_frame_AVCodecContext_AVFrame"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec$Receive_packet_AVCodecContext_AVPacket"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec$Send_frame_AVCodecContext_AVFrame"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec$Close_AVCodecContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec$Decode_AVCodecContext_Pointer_IntPointer_AVPacket"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec$Encode2_AVCodecContext_AVPacket_AVFrame_IntPointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec$Encode_sub_AVCodecContext_BytePointer_int_AVSubtitle"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec$Init_AVCodecContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec$Init_static_data_AVCodec"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodec$Update_thread_context_AVCodecContext_AVCodecContext"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.PointerPointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.LongPointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecContext$Func_AVCodecContext_Pointer_int_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecContext$Execute2_AVCodecContext_Func_AVCodecContext_Pointer_int_int_Pointer_IntPointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecContext$Func_AVCodecContext_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecContext$Execute_AVCodecContext_Func_AVCodecContext_Pointer_Pointer_IntPointer_int_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecContext$Rtp_callback_AVCodecContext_Pointer_int_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecContext$Get_buffer2_AVCodecContext_AVFrame_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecContext$Get_format_AVCodecContext_IntPointer"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecContext$Draw_horiz_band_AVCodecContext_AVFrame_IntPointer_int_int_int"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.ShortPointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avutil.AVBufferRef"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecParser$Split_AVCodecContext_BytePointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecParser$Parser_close_AVCodecParserContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecParser$Parser_parse_AVCodecParserContext_AVCodecContext_PointerPointer_IntPointer_BytePointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVCodecParser$Parser_init_AVCodecParserContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVHWAccel$Frame_params_AVCodecContext_AVBufferRef"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVHWAccel$Uninit_AVCodecContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVHWAccel$Init_AVCodecContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVHWAccel$Decode_mb_MpegEncContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVHWAccel$End_frame_AVCodecContext"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVHWAccel$Decode_slice_AVCodecContext_BytePointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVHWAccel$Decode_params_AVCodecContext_int_BytePointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVHWAccel$Start_frame_AVCodecContext_BytePointer_int"
+  },
+  {
+    "name" : "org.bytedeco.ffmpeg.avcodec.AVHWAccel$Alloc_frame_AVCodecContext_AVFrame"
+  },
+  {
+    "name" : "sun.misc.Unsafe",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  }
+]

@@ -1,0 +1,340 @@
+[
+  {
+    "name" : "org.bytedeco.tesseract.BLOB_CHOICE_IT"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.BLOCK_LIST"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.BlamerBundle"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.C_BLOB_IT"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.CharClearCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.CharCompareCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.CharGenericVector"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.CharReadCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.CharWriteCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.ChoiceIterator"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.DENORM"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.Dawg"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.DeleteCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.Dict"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.DictFunc"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.ETEXT_DESC"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.EquationDetect"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.FileReader"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.FileWriter"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.FillLatticeFunc"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.INT_FEATURE_STRUCT"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.ImageThresholder"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.IntClearCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.IntCompareCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.IntGenericVector"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.IntGenericVectorEqEq"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.IntReadCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.IntWriteCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.LTRResultIterator"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.MATRIX"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.MutableIterator"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.OSResults"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.PAGE_RES"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.PAGE_RES_IT"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.PageIterator"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.ParagraphModel"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.ParamsModelClassifyFunc"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.ProbabilityInContextFunc"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.ROW"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.ResultIterator"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.STRING"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.StringClearCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.StringCompareCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.StringFloatPairVectorVector"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.StringGenericVector"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.StringReadCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.StringWriteCallback"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.TBLOB"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.TBOX"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.TFile"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.TessBaseAPI"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.TessCancelFunc"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.TessClosure"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.TessProgressFunc"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.TessResultRenderer"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.Tesseract"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.Trie"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.TruthCallback3"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.TruthCallback4"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.UNICHAR"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.UNICHARSET"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.WERD"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.WERD_CHOICE_LIST"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.WERD_RES"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.Wordrec"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.presets.tesseract"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.global.tesseract"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Pointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.lang.String",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Pointer$NativeDeallocator",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.javacpp.Loader",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.nio.Buffer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.lang.Object",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "java.nio.charset.Charset"
+  },
+  {
+    "name" : "java.lang.NullPointerException"
+  },
+  {
+    "name" : "java.lang.RuntimeException"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.CharGenericVector$Comparator_Pointer_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.BytePointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.leptonica.PIX"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.IntGenericVector$Comparator_Pointer_Pointer"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.IntPointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "org.bytedeco.leptonica.PTA"
+  },
+  {
+    "name" : "org.bytedeco.leptonica.BOXA"
+  },
+  {
+    "name" : "org.bytedeco.tesseract.UNICHAR$const_iterator"
+  },
+  {
+    "name" : "org.bytedeco.javacpp.PointerPointer",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "sun.misc.Unsafe",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredFields" : true,
+    "allPublicFields" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  }
+]
